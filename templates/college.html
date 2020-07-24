@@ -1,0 +1,35 @@
+{% extends "default.html" %}
+<!DOCTYPE html>
+<html lang="en">
+
+
+{% block body %}
+{{ super() }}
+<div class="container" id="schooldata" data-school='{{ school|tojson }}'>
+  <canvas id="lineChart"></canvas>
+</div>
+
+<div class="container">
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th scope="col">Date with new cases</th>
+        <th scope="col">Source</th>
+      </tr>
+      {% for item in school["Events"] %}
+      <tr>
+        <td scope="row">{{item["Date"]}}</td>
+        <td><a href={{item["Source"]}} id="table-link">Link to Source</a></td>
+      </tr>
+      {% endfor %}
+    </thead>
+</div>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script type="text/javascript" src="/static/js/barchart.js"></script>
+{% endblock %}
+
+
+</html>

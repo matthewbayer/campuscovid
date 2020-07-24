@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>University COVID-19</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+  <!-- Google Fonts Roboto -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <!-- Material Design Bootstrap -->
+  <link rel="stylesheet" href="css/mdb.min.css">
+
+  <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/static/css/mdb.min.css">
+  <link rel="stylesheet" href="/static/css/style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+
+
+  <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+  <link rel="shortcut icon" type="image/png" href="/static/favicon_io/favicon-16x16.png" />
+  {% block head_script %}{% endblock %}
+</head>
+
+<body>
+
+  {% block body %}
+
+  <nav class="navbar navbar-custom navbar-expand-sm">
+    <img src="/static/favicon_io/favicon-32x32.png" width="32" height="32" class="d-inline-block align-top" alt="">
+    <!-- Links -->
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="/">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/contribute">Contribute Data</a>
+      </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="/learn">Learn more</a>
+      </li>-->
+      <li class="nav-item">
+        <a class="nav-link" href="/contact">Contact Us</a>
+      </li>
+    </ul>
+    <ul class="navbar-nav justify-content-end">
+      <form class="form-inline" action="/" method="POST">
+        <!-- input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        -->
+        <select class="browser-default custom-select" name="name" id="search_name" searchable="Search colleges..">
+          <option value="" disabled selected>Search colleges..</option>
+          {% for name in names %}
+          <option value={{name.lower().replace(" ", "-").replace(",", "")}}>{{name}}</option>
+          {% endfor %}
+        </select>
+        <button class="btn btn-search my-2 my-sm-0" type="submit" id="search">Explore</button>
+      </form>
+    </ul>
+
+  </nav><br>
+
+
+  <div class="container" id="flashdiv">
+    {% with messages = get_flashed_messages() %}
+    {% if messages %}
+    <ul class=flashes color="green">
+      {% for message in messages %}
+      <div id=flashwrapper class="alert alert-dismissible" role="alert">{{ message }}
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close" onClick="close('flashdiv')">
+          <span aria-hidden="true">&times;</span>
+      </div>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% endwith %}
+  </div>
+  {% endblock %}
+
+  {% block scripts %}
+  <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>-->
+  <!-- jQuery -->
+  <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="/static/js/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="/static/js/mdb.min.js"></script>
+  <script type="text/javascript" src="/static/js/search.js"></script>
+  {% endblock %}
+</body>
+
+</html>

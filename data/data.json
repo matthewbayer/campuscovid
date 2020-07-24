@@ -1,0 +1,222 @@
+[
+  {
+    "Name": "University of California, Berkeley",
+    "Events": [
+      {
+        "Date": "7/8/20",
+        "New Cases": 47,
+        "Source": "https://www.mercurynews.com/2020/07/08/uc-berkeley-fall-reopening-in-jeopardy-after-47-new-covid-19-cases-linked-to-week-of-frat-parties/"
+      },
+      {
+        "Date": "7/17/20",
+        "New Cases": 25,
+        "Source": "https://www.mercurynews.com/2020/07/17/another-round-of-uc-berkeley-covid-19-infections-linked-to-frat-parties/"
+      }
+    ]
+  },
+  {
+    "Name": "Purdue University",
+    "Events": [
+      {
+        "Date": "7/17/20",
+        "New Cases": 3,
+        "Source": "https://www.jconline.com/story/news/2020/07/17/coronavirus-purdue-reveals-3-students-test-positive-accounting-less-than-1-first-group-campus/5458709002/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Michigan",
+    "Events": [
+      {
+        "Date": "7/10/20",
+        "New Cases": 4,
+        "Source": "https://www.mlive.com/wolverines/2020/07/univ-of-michigan-athletics-reports-2-more-covid-19-cases.html"
+      }
+    ]
+  },
+  {
+    "Name": "University of Texas, Austin",
+    "Events": [
+      {
+        "Date": "7/1/20",
+        "New Cases": 9,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/2/20",
+        "New Cases": 10,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/3/20",
+        "New Cases": 10,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/4/20",
+        "New Cases": 6,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/5/20",
+        "New Cases": 16,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/6/20",
+        "New Cases": 5,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/7/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/8/20",
+        "New Cases": 8,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/10/20",
+        "New Cases": 2,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/13/20",
+        "New Cases": 8,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/15/20",
+        "New Cases": 4,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/16/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/17/20",
+        "New Cases": 3,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      }
+    ]
+  },
+  {
+    "Name": "Michigan State University",
+    "Events": [
+      {
+        "Date": "7/17/20",
+        "New Cases": 3,
+        "Source": "https://www.detroitnews.com/story/sports/college/michigan-state-university/2020/07/17/three-michigan-state-athletes-among-38-tested-positive-covid-19/5461508002/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Arizona",
+    "Events": [
+      {
+        "Date": "7/17/20",
+        "New Cases": 3,
+        "Source": "https://tucson.com/sports/arizonawildcats/university-of-arizona-3-football-players-training-on-campus-test-positive-covid-19/article_7ebaae94-c86f-11ea-8533-93e4f6fb4110.html"
+      }
+    ]
+  },
+  {
+    "Name": "University of Washington",
+    "Events": [
+      {
+        "Date": "7/3/20",
+        "New Cases": 117,
+        "Source": "https://www.cnn.com/2020/07/01/us/university-of-washington-frats-coronavirus-trnd/index.html"
+      },
+      {
+        "Date": "7/3/20",
+        "New Cases": 4,
+        "Source": "https://www.cnn.com/2020/07/01/us/university-of-washington-frats-coronavirus-trnd/index.html"
+      }
+    ]
+  },
+  {
+    "Name": "University of Georgia",
+    "Events": [
+      {
+        "Date": "7/2/20",
+        "New Cases": 154,
+        "Source": "https://www.gpb.org/news/2020/07/02/uga-confirms-154-test-positive-for-covid-19-among-students-faculty"
+      }
+    ]
+  },
+  {
+    "Name": "University of Maryland",
+    "Events": [
+      {
+        "Date": "7/11/20",
+        "New Cases": 9,
+        "Source": "https://baltimore.cbslocal.com/2020/07/11/university-of-maryland-athletics-coronavirus-testing-results-football-workouts-suspended/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Tennessee at Chattanooga",
+    "Events": [
+      {
+        "Date": "7/16/20",
+        "New Cases": 3,
+        "Source": "https://www.timesfreepress.com/news/sports/college/story/2020/jul/16/utc-student-athletes-test-positive-coronaviru/527648/"
+      }
+    ]
+  },
+  {
+    "Name": "University of North Carolina",
+    "Events": [
+      {
+        "Date": "7/8/20",
+        "New Cases": 37,
+        "Source": "https://www.cbs17.com/sports/unc/37-test-positive-for-covid-19-as-unc-student-athletes-coaches-staff-return-to-campus/"
+      }
+    ]
+  },
+  {
+    "Name": "Iowa State University",
+    "Events": [
+      {
+        "Date": "7/20/20",
+        "New Cases": 6,
+        "Source": "https://www.desmoinesregister.com/story/sports/college/iowa-state/cyclone-insider/2020/07/20/six-more-within-iowa-state-athletics-test-positive-coronavirus/5475626002/"
+      }
+    ]
+  },
+  {
+    "Name": "Carroll College",
+    "Events": [
+      {
+        "Date": "7/19/20",
+        "New Cases": 1,
+        "Source": "https://fox28spokane.com/carroll-college-students-test-positive-for-covid-19/"
+      }
+    ]
+  },
+  {
+    "Name": "Northeast State Community College",
+    "Events": [
+      {
+        "Date": "7/11/20",
+        "New Cases": 1,
+        "Source": "https://www.wjhl.com/local-coronavirus-coverage/northeast-state-community-college-student-tests-positive-for-covid-19/"
+      }
+    ]
+  },
+  {
+    "Name": "Del Mar College",
+    "Events": [
+      {
+        "Date": "7/21/20",
+        "New Cases": 1,
+        "Source": "https://www.caller.com/story/news/education/2020/07/21/del-mar-college-employee-student-test-positive-covid-19/5482975002/"
+      }
+    ]
+  }
+]

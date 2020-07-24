@@ -1,0 +1,27 @@
+.navbar .navbar-nav .nav-item a{
+  color:white;
+  }
+
+.navbar-custom { 
+    background-color: #70acf1; 
+} 
+
+.navbar .btn  .btn-search{
+  background-color: #aaaaff;
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+#search {
+  background-color: #aaaaff;
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+#table-link{
+  color:#0000EE;
+}
+
+#flashwrapper{
+  background-color: rgb(164, 223, 164)
+}
