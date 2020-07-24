@@ -218,5 +218,25 @@
         "Source": "https://www.caller.com/story/news/education/2020/07/21/del-mar-college-employee-student-test-positive-covid-19/5482975002/"
       }
     ]
+  },
+  {
+    "Name": "Morgan State University",
+    "Events": [
+      {
+        "Date": "7/24/20",
+        "New Cases": 12,
+        "Source": "https://www.baltimoresun.com/sports/college/football/bs-sp-morgan-state-covid-tests-20200722-znhvqd23o5bsviycbjjuxiqj7i-story.html"
+      }
+    ]
+  },
+  {
+    "Name": "Penn State University",
+    "Events": [
+      {
+        "Date": "7/24/20",
+        "New Cases": 1,
+        "Source": "https://www.centredaily.com/news/coronavirus/article244430522.html"
+      }
+    ]
   }
 ]

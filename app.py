@@ -4,7 +4,6 @@ from flask import Flask, request, render_template, abort, flash, redirect, url_f
 
 app = Flask(__name__, template_folder="templates", static_folder="static")
 app.secret_key = b"fgp2938fsdf?/"
-app.config["DEBUG"] = True
 
 
 def is_last_week(date_str):
@@ -109,3 +108,6 @@ def college(name):
 def not_found(e):
     return render_template("404.html")
 
+
+if __name__ == "__main__":
+    app.run()
