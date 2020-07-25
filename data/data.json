@@ -388,5 +388,15 @@
         "Source": "https://www.newsandsentinel.com/news/local-news/2020/07/west-virginia-university-students-test-positive-for-virus/"
       }
     ]
+  },
+  {
+    "Name": "Kansas State University",
+    "Events": [
+      {
+        "Date": "7/13/20",
+        "New Cases": 29,
+        "Source": "https://www.kstatesports.com/news/2020/7/13/k-state-athletics-provides-july-13-covid-19-update.aspx"
+      }
+    ]
   }
 ]
