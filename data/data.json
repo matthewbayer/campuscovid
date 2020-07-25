@@ -31,6 +31,11 @@
         "Date": "7/10/20",
         "New Cases": 4,
         "Source": "https://www.mlive.com/wolverines/2020/07/univ-of-michigan-athletics-reports-2-more-covid-19-cases.html"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 5,
+        "Source": "https://www.mlive.com/wolverines/2020/07/michigan-athletics-reports-five-new-covid-19-cases.html"
       }
     ]
   },
@@ -111,6 +116,11 @@
         "Date": "7/17/20",
         "New Cases": 3,
         "Source": "https://www.detroitnews.com/story/sports/college/michigan-state-university/2020/07/17/three-michigan-state-athletes-among-38-tested-positive-covid-19/5461508002/"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 1,
+        "Source": "https://www.nbcnews.com/news/us-news/michigan-state-football-team-quarantines-after-positive-tests-n1234879"
       }
     ]
   },
@@ -128,14 +138,44 @@
     "Name": "University of Washington",
     "Events": [
       {
-        "Date": "7/3/20",
-        "New Cases": 117,
-        "Source": "https://www.cnn.com/2020/07/01/us/university-of-washington-frats-coronavirus-trnd/index.html"
+        "Date": "7/2/20",
+        "New Cases": 62,
+        "Source": "https://www.washington.edu/news/2020/06/30/uw-public-health-seattle-king-county-responding-to-coronavirus-cases-in-greek-system/"
       },
       {
         "Date": "7/3/20",
-        "New Cases": 4,
-        "Source": "https://www.cnn.com/2020/07/01/us/university-of-washington-frats-coronavirus-trnd/index.html"
+        "New Cases": 27,
+        "Source": "https://www.washington.edu/news/2020/06/30/uw-public-health-seattle-king-county-responding-to-coronavirus-cases-in-greek-system/"
+      },
+      {
+        "Date": "7/5/20",
+        "New Cases": 23,
+        "Source": "https://www.washington.edu/news/2020/06/30/uw-public-health-seattle-king-county-responding-to-coronavirus-cases-in-greek-system/"
+      },
+      {
+        "Date": "7/6/20",
+        "New Cases": 16,
+        "Source": "https://www.washington.edu/news/2020/06/30/uw-public-health-seattle-king-county-responding-to-coronavirus-cases-in-greek-system/"
+      },
+      {
+        "Date": "7/7/20",
+        "New Cases": 2,
+        "Source": "https://www.washington.edu/news/2020/06/30/uw-public-health-seattle-king-county-responding-to-coronavirus-cases-in-greek-system/"
+      },
+      {
+        "Date": "7/8/20",
+        "New Cases": 3,
+        "Source": "https://www.washington.edu/news/2020/06/30/uw-public-health-seattle-king-county-responding-to-coronavirus-cases-in-greek-system/"
+      },
+      {
+        "Date": "7/9/20",
+        "New Cases": 2,
+        "Source": "https://www.washington.edu/news/2020/06/30/uw-public-health-seattle-king-county-responding-to-coronavirus-cases-in-greek-system/"
+      },
+      {
+        "Date": "7/10/20",
+        "New Cases": 1,
+        "Source": "https://www.washington.edu/news/2020/06/30/uw-public-health-seattle-king-county-responding-to-coronavirus-cases-in-greek-system/"
       }
     ]
   },
@@ -156,6 +196,11 @@
         "Date": "7/11/20",
         "New Cases": 9,
         "Source": "https://baltimore.cbslocal.com/2020/07/11/university-of-maryland-athletics-coronavirus-testing-results-football-workouts-suspended/"
+      },
+      {
+        "Date": "7/22/20",
+        "New Cases": 3,
+        "Source": "https://baltimore.cbslocal.com/2020/07/22/university-of-maryland-coronavirus-testing-latest-results/"
       }
     ]
   },
@@ -213,6 +258,11 @@
     "Name": "Del Mar College",
     "Events": [
       {
+        "Date": "7/1/20",
+        "New Cases": 2,
+        "Source": "https://www.caller.com/story/news/education/2020/07/01/two-more-del-mar-students-test-positive-covid-19/5359936002/"
+      },
+      {
         "Date": "7/21/20",
         "New Cases": 1,
         "Source": "https://www.caller.com/story/news/education/2020/07/21/del-mar-college-employee-student-test-positive-covid-19/5482975002/"
@@ -236,6 +286,106 @@
         "Date": "7/24/20",
         "New Cases": 1,
         "Source": "https://www.centredaily.com/news/coronavirus/article244430522.html"
+      }
+    ]
+  },
+  {
+    "Name": "Virginia Western Community College",
+    "Events": [
+      {
+        "Date": "7/20/20",
+        "New Cases": 2,
+        "Source": "https://www.wdbj7.com/2020/07/20/virginia-western-community-college-sees-two-positive-covid-19-cases/"
+      }
+    ]
+  },
+  {
+    "Name": "St Norbert College",
+    "Events": [
+      {
+        "Date": "7/1/20",
+        "New Cases": 1,
+        "Source": "https://www.greenbaypressgazette.com/story/news/2020/07/01/st-norbert-college-member-tests-positive-covid-19/5359999002/"
+      }
+    ]
+  },
+  {
+    "Name": "Washburn University",
+    "Events": [
+      {
+        "Date": "7/24/20",
+        "New Cases": 5,
+        "Source": "https://www.wibw.com/2020/07/24/five-washburn-student-athletes-test-positive-for-covid-19/"
+      }
+    ]
+  },
+  {
+    "Name": "Missouri State University",
+    "Events": [
+      {
+        "Date": "7/13/20",
+        "New Cases": 1,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/14/20",
+        "New Cases": 2,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/17/20",
+        "New Cases": 4,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/19/20",
+        "New Cases": 1,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/20/20",
+        "New Cases": 2,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/22/20",
+        "New Cases": 9,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/23/20",
+        "New Cases": 18,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      }
+    ]
+  },
+  {
+    "Name": "Bradley University",
+    "Events": [
+      {
+        "Date": "7/24/20",
+        "New Cases": 8,
+        "Source": "https://www.centralillinoisproud.com/news/top-stories/bradley-university-orientation-members-test-positive-for-covid-19/"
+      }
+    ]
+  },
+  {
+    "Name": "Illinois State University",
+    "Events": [
+      {
+        "Date": "7/23/20",
+        "New Cases": 3,
+        "Source": "https://www.wglt.org/post/testing-turns-3-more-covid-19-cases-among-isu-student-athletes#stream/0"
+      }
+    ]
+  },
+  {
+    "Name": "West Virginia University",
+    "Events": [
+      {
+        "Date": "7/4/20",
+        "New Cases": 10,
+        "Source": "https://www.newsandsentinel.com/news/local-news/2020/07/west-virginia-university-students-test-positive-for-virus/"
       }
     ]
   }

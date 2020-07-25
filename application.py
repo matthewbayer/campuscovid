@@ -100,6 +100,7 @@ def college(name):
     school = get_data_graph(name)
     if school is None:  # school not found in data
         abort(404)
+        return "oops"
     else:
         return render_template("college.html", school=school, names=get_names())
 
