@@ -398,5 +398,80 @@
         "Source": "https://www.kstatesports.com/news/2020/7/13/k-state-athletics-provides-july-13-covid-19-update.aspx"
       }
     ]
+  },
+  {
+    "Name": "American University",
+    "Events": [
+      {
+        "Date": "7/13/20",
+        "New Cases": 29,
+        "Source": "https://www.kstatesports.com/news/2020/7/13/k-state-athletics-provides-july-13-covid-19-update.aspx"
+      }
+    ]
+  },
+  {
+    "Name": "University of Oregon",
+    "Events": [
+      {
+        "Date": "7/1/20",
+        "New Cases": 9,
+        "Source": "https://www.uoregon.edu/uo-covid-19-cases"
+      },
+      {
+        "Date": "7/2/20",
+        "New Cases": 4,
+        "Source": "https://www.uoregon.edu/uo-covid-19-cases"
+      },
+      {
+        "Date": "7/6/20",
+        "New Cases": 3,
+        "Source": "https://www.uoregon.edu/uo-covid-19-cases"
+      },
+      {
+        "Date": "7/8/20",
+        "New Cases": 1,
+        "Source": "https://www.uoregon.edu/uo-covid-19-cases"
+      },
+      {
+        "Date": "7/9/20",
+        "New Cases": 2,
+        "Source": "https://www.uoregon.edu/uo-covid-19-cases"
+      },
+      {
+        "Date": "7/13/20",
+        "New Cases": 1,
+        "Source": "https://www.uoregon.edu/uo-covid-19-cases"
+      },
+      {
+        "Date": "7/16/20",
+        "New Cases": 2,
+        "Source": "https://www.uoregon.edu/uo-covid-19-cases"
+      },
+      {
+        "Date": "7/17/20",
+        "New Cases": 1,
+        "Source": "https://www.uoregon.edu/uo-covid-19-cases"
+      },
+      {
+        "Date": "7/20/20",
+        "New Cases": 4,
+        "Source": "https://www.uoregon.edu/uo-covid-19-cases"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 2,
+        "Source": "https://www.uoregon.edu/uo-covid-19-cases"
+      }
+    ]
+  },
+  {
+    "Name": "University of Southern California",
+    "Events": [
+      {
+        "Date": "7/16/20",
+        "New Cases": 27,
+        "Source": "https://dailytrojan.com/2020/07/16/coronavirus-positivity-rate-spikes-among-students-tested-at-student-health/"
+      }
+    ]
   }
 ]
