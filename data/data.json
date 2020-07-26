@@ -106,6 +106,21 @@
         "Date": "7/17/20",
         "New Cases": 3,
         "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/18/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/22/20",
+        "New Cases": 2,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.utexas.edu/#ut-covid-19-testing-dashboard"
       }
     ]
   },
@@ -596,6 +611,56 @@
         "Date": "7/25/20",
         "New Cases": 3,
         "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      }
+    ]
+  },
+  {
+    "Name": "University of Virginia",
+    "Events": [
+      {
+        "Date": "7/24/20",
+        "New Cases": 4,
+        "Source": "https://richmond.com/sports/college/schools/university-virginia/four-uva-athletes-test-positive-for-covid-19-out-of-first-235-tests/article_968dc4ef-3b63-5dd7-8f5a-69aac13b53a3.html"
+      }
+    ]
+  },
+  {
+    "Name": "Rappahannock Community College",
+    "Events": [
+      {
+        "Date": "7/14/20",
+        "New Cases": 1,
+        "Source": "https://www.nbc12.com/2020/07/14/student-tests-positive-covid-rappahannock-community-college/"
+      }
+    ]
+  },
+  {
+    "Name": "Tyler Junior College",
+    "Events": [
+      {
+        "Date": "7/3/20",
+        "New Cases": 1,
+        "Source": "https://tylerpaper.com/news/local/tjc-reports-three-more-cases-of-covid-19-this-week/article_9bb2eb08-c075-11ea-b0d3-cf90b0a92e85.html"
+      },
+      {
+        "Date": "7/6/20",
+        "New Cases": 2,
+        "Source": "https://tylerpaper.com/news/local/tjc-reports-three-more-cases-of-covid-19-this-week/article_9bb2eb08-c075-11ea-b0d3-cf90b0a92e85.html"
+      },
+      {
+        "Date": "7/15/20",
+        "New Cases": 5,
+        "Source": "https://www.nbc12.com/2020/07/14/student-tests-positive-covid-rappahannock-community-college/"
+      }
+    ]
+  },
+  {
+    "Name": "Rutgers University",
+    "Events": [
+      {
+        "Date": "7/25/20",
+        "New Cases": 6,
+        "Source": "https://www.cbssports.com/college-football/news/rutgers-puts-entire-football-program-in-quarantine-after-10-positive-covid-19-tests-since-returning-to-campus/"
       }
     ]
   }
