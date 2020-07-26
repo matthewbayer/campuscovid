@@ -3,7 +3,7 @@ var schooldata = JSON.parse(document.querySelector('#schooldata').dataset.school
 
 var july1 = new Date().setFullYear(2020, 6, 1);
 var days_since_july1 = Math.round((new Date() - july1) / 86400000);
-var data = new Array(days_since_july1).fill(0);
+var data = new Array(days_since_july1 + 1).fill(0);
 var date_labels = [];
 var start = new Date()
 start.setFullYear(2020, 6, 1);

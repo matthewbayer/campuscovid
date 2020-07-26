@@ -473,5 +473,25 @@
         "Source": "https://dailytrojan.com/2020/07/16/coronavirus-positivity-rate-spikes-among-students-tested-at-student-health/"
       }
     ]
+  },
+  {
+    "Name": "Gonzaga University",
+    "Events": [
+      {
+        "Date": "7/20/20",
+        "New Cases": 1,
+        "Source": "https://gonzaga.edu/zagon/frequently-asked-questions-faqs/health-safety"
+      }
+    ]
+  },
+  {
+    "Name": "Texas A&M University",
+    "Events": [
+      {
+        "Date": "7/25/20",
+        "New Cases": 7,
+        "Source": "https://www.kbtx.com/2020/07/25/53-new-covid-19-cases-confirmed-today-in-brazos-county/"
+      }
+    ]
   }
 ]
