@@ -493,5 +493,110 @@
         "Source": "https://www.kbtx.com/2020/07/25/53-new-covid-19-cases-confirmed-today-in-brazos-county/"
       }
     ]
+  },
+  {
+    "Name": "Rice University",
+    "Events": [
+      {
+        "Date": "7/17/20",
+        "New Cases": 51,
+        "Source": "https://coronavirus.rice.edu/news/message-president-leebron-july-17"
+      }
+    ]
+  },
+  {
+    "Name": "Georgia Institute of Technology",
+    "Events": [
+      {
+        "Date": "7/3/20",
+        "New Cases": 6,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/4/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/6/20",
+        "New Cases": 2,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/7/20",
+        "New Cases": 3,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/8/20",
+        "New Cases": 5,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/9/20",
+        "New Cases": 3,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/10/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/11/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/13/20",
+        "New Cases": 2,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/15/20",
+        "New Cases": 2,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/17/20",
+        "New Cases": 5,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/18/20",
+        "New Cases": 4,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/19/20",
+        "New Cases": 3,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/21/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/22/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/23/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/25/20",
+        "New Cases": 3,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      }
+    ]
   }
 ]
