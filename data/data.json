@@ -158,9 +158,19 @@
         "Source": "https://www.washington.edu/news/2020/06/30/uw-public-health-seattle-king-county-responding-to-coronavirus-cases-in-greek-system/"
       },
       {
+        "Date": "7/2/20",
+        "New Cases": 2,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
+      },
+      {
         "Date": "7/3/20",
         "New Cases": 27,
         "Source": "https://www.washington.edu/news/2020/06/30/uw-public-health-seattle-king-county-responding-to-coronavirus-cases-in-greek-system/"
+      },
+      {
+        "Date": "7/3/20",
+        "New Cases": 1,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
       },
       {
         "Date": "7/5/20",
@@ -191,6 +201,36 @@
         "Date": "7/10/20",
         "New Cases": 1,
         "Source": "https://www.washington.edu/news/2020/06/30/uw-public-health-seattle-king-county-responding-to-coronavirus-cases-in-greek-system/"
+      },
+      {
+        "Date": "7/14/20",
+        "New Cases": 5,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
+      },
+      {
+        "Date": "7/16/20",
+        "New Cases": 1,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
+      },
+      {
+        "Date": "7/18/20",
+        "New Cases": 1,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
+      },
+      {
+        "Date": "7/21/20",
+        "New Cases": 1,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
+      },
+      {
+        "Date": "7/23/20",
+        "New Cases": 2,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
+      },
+      {
+        "Date": "7/25/20",
+        "New Cases": 1,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
       }
     ]
   },
@@ -661,6 +701,26 @@
         "Date": "7/25/20",
         "New Cases": 6,
         "Source": "https://www.cbssports.com/college-football/news/rutgers-puts-entire-football-program-in-quarantine-after-10-positive-covid-19-tests-since-returning-to-campus/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Pittsburgh",
+    "Events": [
+      {
+        "Date": "7/10/20",
+        "New Cases": 10,
+        "Source": "https://pittsburgh.cbslocal.com/2020/07/10/university-of-pittsburgh-10-more-coronavirus-cases/"
+      },
+      {
+        "Date": "7/17/20",
+        "New Cases": 3,
+        "Source": "https://www.coronavirus.pitt.edu/covid-19-campus/campus-cases"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 2,
+        "Source": "https://www.coronavirus.pitt.edu/covid-19-campus/campus-cases"
       }
     ]
   }

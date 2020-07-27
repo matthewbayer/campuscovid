@@ -25,7 +25,7 @@ schooldata.Events.forEach(function (obj) {
     parseInt(month, 10) - 1, // months start at 0
     parseInt(day, 10));
   var days_since_july1 = Math.round((date - july1) / 86400000);
-  data[days_since_july1] = obj["New Cases"];
+  data[days_since_july1] += obj["New Cases"];
 });
 
 var cumsum = 0;
