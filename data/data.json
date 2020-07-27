@@ -723,5 +723,25 @@
         "Source": "https://www.coronavirus.pitt.edu/covid-19-campus/campus-cases"
       }
     ]
+  },
+  {
+    "Name": "University of Notre Dame",
+    "Events": [
+      {
+        "Date": "7/20/20",
+        "New Cases": 1,
+        "Source": "https://www.ndinsider.com/football/second-notre-dame-football-player-tests-positive-for-covid-19/article_6ba9913a-a037-5f9e-9fcf-e15004e21759.html"
+      }
+    ]
+  },
+  {
+    "Name": "Berry College",
+    "Events": [
+      {
+        "Date": "7/15/20",
+        "New Cases": 1,
+        "Source": "https://coosavalleynews.com/2020/07/berry-college-closes-to-public-after-student-test-positive-for-covid-19/"
+      }
+    ]
   }
 ]

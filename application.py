@@ -105,6 +105,18 @@ def college(name):
         return render_template("college.html", school=school, names=get_names())
 
 
+@application.route("/privacy", methods=["GET"])
+def privacy():
+    if request.method == "GET":
+        return render_template("privacy.html", names=get_names())
+
+
+@application.route("/terms", methods=["GET"])
+def terms():
+    if request.method == "GET":
+        return render_template("terms.html", names=get_names())
+
+
 @application.errorhandler(404)
 def not_found(e):
     return render_template("404.html", names=get_names())
