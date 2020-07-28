@@ -26,8 +26,6 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
 
-
-  <link rel="stylesheet" type="text/css" href="/static/css/style.css">
   <meta>
   <link rel="icon" type="image/ico" href="{{ url_for('static',filename='favicon.ico') }}" />
   <link rel="shortcut icon" type="image/ico" href="{{ url_for('static',filename='favicon.ico') }}" />
@@ -88,7 +86,6 @@
 
   </nav><br>
 
-
   <div class="container" id="flashdiv">
     {% with messages = get_flashed_messages() %}
     {% if messages %}
@@ -105,6 +102,7 @@
   </div>
   {% endblock %}
 
+
   {% block scripts %}
   <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
@@ -119,11 +117,8 @@
   <script type="text/javascript" src="/static/js/mdb.min.js"></script>
   <script type="text/javascript" src="/static/js/search.js"></script>
   {% endblock %}
-  <div class="container text-center">
-    <br>
-    <a class="legal-link" id="legal-link" href="/privacy">Privacy Policy</a>
-    <a class="legal-link" id="legal-link" href="/terms">Terms of Use</a>
-  </div>
+
 </body>
+
 
 </html>

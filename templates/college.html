@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 {% block body %}
 {{ super() }}
 <div class="container" id="schooldata" data-school='{{ school|tojson }}'>
@@ -30,6 +29,5 @@
 {{ super() }}
 <script type="text/javascript" src="/static/js/barchart.js"></script>
 {% endblock %}
-
 
 </html>
