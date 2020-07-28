@@ -21,6 +21,11 @@
         "Date": "7/17/20",
         "New Cases": 3,
         "Source": "https://www.jconline.com/story/news/2020/07/17/coronavirus-purdue-reveals-3-students-test-positive-accounting-less-than-1-first-group-campus/5458709002/"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 27,
+        "Source": "https://purduesports.com/news/2020/7/24/general-purdue-athletics-provides-upate-on-covid-19-test-results.aspx"
       }
     ]
   },
@@ -741,6 +746,61 @@
         "Date": "7/15/20",
         "New Cases": 1,
         "Source": "https://coosavalleynews.com/2020/07/berry-college-closes-to-public-after-student-test-positive-for-covid-19/"
+      }
+    ]
+  },
+  {
+    "Name": "Southern Methodist University",
+    "Events": [
+      {
+        "Date": "7/6/20",
+        "New Cases": 3,
+        "Source": "https://blog.smu.edu/coronavirus-covid-19/smu-cases/"
+      },
+      {
+        "Date": "7/15/20",
+        "New Cases": 1,
+        "Source": "https://blog.smu.edu/coronavirus-covid-19/smu-cases/"
+      },
+      {
+        "Date": "7/9/20",
+        "New Cases": 4,
+        "Source": "https://blog.smu.edu/coronavirus-covid-19/smu-cases/"
+      },
+      {
+        "Date": "7/10/20",
+        "New Cases": 1,
+        "Source": "https://blog.smu.edu/coronavirus-covid-19/smu-cases/"
+      },
+      {
+        "Date": "7/23/20",
+        "New Cases": 1,
+        "Source": "https://blog.smu.edu/coronavirus-covid-19/smu-cases/"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 2,
+        "Source": "https://blog.smu.edu/coronavirus-covid-19/smu-cases/"
+      }
+    ]
+  },
+  {
+    "Name": "Binghamton University",
+    "Events": [
+      {
+        "Date": "7/9/20",
+        "New Cases": 1,
+        "Source": "https://www.bupipedream.com/news/117422/auto-draft-293/"
+      }
+    ]
+  },
+  {
+    "Name": "College of Idaho",
+    "Events": [
+      {
+        "Date": "7/24/20",
+        "New Cases": 18,
+        "Source": "https://www.collegeofidaho.edu/covid-19-updates"
       }
     ]
   }

@@ -54,7 +54,7 @@ def get_data_graph(school_name):
 def get_names():
     with open("data/data.json", "r") as f:
         data = json.loads(f.read())
-    return [d["Name"] for d in data]
+    return sorted([d["Name"] for d in data])
 
 
 @application.route("/", methods=["GET", "POST"])
