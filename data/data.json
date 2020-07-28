@@ -803,5 +803,80 @@
         "Source": "https://www.collegeofidaho.edu/covid-19-updates"
       }
     ]
+  },
+  {
+    "Name": "University of Nevada, Reno",
+    "Events": [
+      {
+        "Date": "7/3/20",
+        "New Cases": 1,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/4/20",
+        "New Cases": 4,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/7/20",
+        "New Cases": 2,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/10/20",
+        "New Cases": 1,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/11/20",
+        "New Cases": 1,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/12/20",
+        "New Cases": 6,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/13/20",
+        "New Cases": 1,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/15/20",
+        "New Cases": 1,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/17/20",
+        "New Cases": 1,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/18/20",
+        "New Cases": 6,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/20/20",
+        "New Cases": 1,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/22/20",
+        "New Cases": 3,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/23/20",
+        "New Cases": 2,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/27/20",
+        "New Cases": 2,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      }
+    ]
   }
 ]
