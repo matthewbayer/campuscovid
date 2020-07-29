@@ -363,6 +363,11 @@
         "Date": "7/24/20",
         "New Cases": 1,
         "Source": "https://www.centredaily.com/news/coronavirus/article244430522.html"
+      },
+      {
+        "Date": "7/29/20",
+        "New Cases": 8,
+        "Source": "https://www.dailyitem.com/coronavirus/update-penn-state-announces-8-athletes-have-tested-positive-for-covid-19/article_ddfe8d4a-d1bf-11ea-93aa-83bb013205c2.html"
       }
     ]
   },
@@ -1275,6 +1280,422 @@
         "Date": "7/27/20",
         "New Cases": 2,
         "Source": "https://www.cmu.edu/coronavirus/health-and-wellness/dashboard.html"
+      }
+    ]
+  },
+  {
+    "Name": "University of California, Irvine",
+    "State": "California",
+    "Events": [
+      {
+        "Date": "7/20/20",
+        "New Cases": 34,
+        "Source": "https://uci.edu/coronavirus/"
+      }
+    ]
+  },
+  {
+    "Name": "University of California, Los Angeles",
+    "State": "California",
+    "Events": [
+      {
+        "Date": "7/2/20",
+        "New Cases": 4,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/3/20",
+        "New Cases": 7,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/7/20",
+        "New Cases": 5,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/8/20",
+        "New Cases": 3,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/9/20",
+        "New Cases": 1,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/10/20",
+        "New Cases": 2,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/11/20",
+        "New Cases": 9,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/13/20",
+        "New Cases": 4,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/15/20",
+        "New Cases": 10,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/16/20",
+        "New Cases": 2,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/17/20",
+        "New Cases": 9,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/18/20",
+        "New Cases": 4,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/21/20",
+        "New Cases": 5,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/23/20",
+        "New Cases": 3,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 2,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/25/20",
+        "New Cases": 3,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "7/28/20",
+        "New Cases": 1,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      }
+    ]
+  },
+  {
+    "Name": "Appalachian State University",
+    "State": "North Carolina",
+    "Events": [
+      {
+        "Date": "7/29/20",
+        "New Cases": 47,
+        "Source": "https://www.appstate.edu/go/coronavirus/"
+      }
+    ]
+  },
+  {
+    "Name": "Sam Houston State University",
+    "State": "Texas",
+    "Events": [
+      {
+        "Date": "7/2/20",
+        "New Cases": 1,
+        "Source": "https://www.shsu.edu/katsafe/covid/coronavirus-cases"
+      },
+      {
+        "Date": "7/6/20",
+        "New Cases": 6,
+        "Source": "https://www.shsu.edu/katsafe/covid/coronavirus-cases"
+      },
+      {
+        "Date": "7/7/20",
+        "New Cases": 2,
+        "Source": "https://www.shsu.edu/katsafe/covid/coronavirus-cases"
+      },
+      {
+        "Date": "7/9/20",
+        "New Cases": 4,
+        "Source": "https://www.shsu.edu/katsafe/covid/coronavirus-cases"
+      },
+      {
+        "Date": "7/10/20",
+        "New Cases": 3,
+        "Source": "https://www.shsu.edu/katsafe/covid/coronavirus-cases"
+      },
+      {
+        "Date": "7/12/20",
+        "New Cases": 2,
+        "Source": "https://www.shsu.edu/katsafe/covid/coronavirus-cases"
+      },
+      {
+        "Date": "7/13/20",
+        "New Cases": 2,
+        "Source": "https://www.shsu.edu/katsafe/covid/coronavirus-cases"
+      },
+      {
+        "Date": "7/27/20",
+        "New Cases": 1,
+        "Source": "https://www.shsu.edu/katsafe/covid/coronavirus-cases"
+      }
+    ]
+  },
+  {
+    "Name": "Georgetown University",
+    "State": "District of Columbia",
+    "Events": [
+      {
+        "Date": "7/13/20",
+        "New Cases": 4,
+        "Source": "https://www.georgetown.edu/news/tag/covid-19-confirmed-cases/"
+      },
+      {
+        "Date": "7/20/20",
+        "New Cases": 2,
+        "Source": "https://www.georgetown.edu/news/tag/covid-19-confirmed-cases/"
+      },
+      {
+        "Date": "7/27/20",
+        "New Cases": 4,
+        "Source": "https://www.georgetown.edu/news/tag/covid-19-confirmed-cases/"
+      }
+    ]
+  },
+  {
+    "Name": "West Point University",
+    "State": "New York",
+    "Events": [
+      {
+        "Date": "7/14/20",
+        "New Cases": 4,
+        "Source": "https://www.appstate.edu/go/coronavirus/"
+      }
+    ]
+  },
+  {
+    "Name": "Princeton University",
+    "State": "New Jersey",
+    "Events": [
+      {
+        "Date": "7/15/20",
+        "New Cases": 1,
+        "Source": "https://www.princeton.edu/content/covid-19-coronavirus-information"
+      }
+    ]
+  },
+  {
+    "Name": "Northwestern University",
+    "State": "Illinois",
+    "Events": [
+      {
+        "Date": "7/2/20",
+        "New Cases": 2,
+        "Source": "https://www.northwestern.edu/coronavirus-covid-19-updates/developments/confirmed-cases.html"
+      },
+      {
+        "Date": "7/9/20",
+        "New Cases": 2,
+        "Source": "https://www.northwestern.edu/coronavirus-covid-19-updates/developments/confirmed-cases.html"
+      },
+      {
+        "Date": "7/23/20",
+        "New Cases": 4,
+        "Source": "https://www.northwestern.edu/coronavirus-covid-19-updates/developments/confirmed-cases.html"
+      }
+    ]
+  },
+  {
+    "Name": "University of North Alabama",
+    "State": "Alabama",
+    "Events": [
+      {
+        "Date": "7/29/20",
+        "New Cases": 32,
+        "Source": "https://www.una.edu/university-communications/covid-19.html"
+      }
+    ]
+  },
+  {
+    "Name": "Clemson University",
+    "State": "South Carolina",
+    "Events": [
+      {
+        "Date": "7/10/20",
+        "New Cases": 6,
+        "Source": "https://www.wistv.com/2020/07/10/clemson-announces-six-more-positive-covid-cases-among-student-athletes-staff/"
+      }
+    ]
+  },
+  {
+    "Name": "Louisiana Tech University",
+    "State": "Louisiana",
+    "Events": [
+      {
+        "Date": "7/20/20",
+        "New Cases": 10,
+        "Source": "https://www.thenewsstar.com/story/sports/college/louisiana-tech/2020/07/20/louisiana-tech-reports-more-positve-covid-19-among-student-athletes/5474354002/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Iowa",
+    "State": "Iowa",
+    "Events": [
+      {
+        "Date": "7/20/20",
+        "New Cases": 27,
+        "Source": "https://www.kcrg.com/2020/07/27/one-additional-case-of-covid-19-in-the-iowa-athletics-program-officials-say/"
+      }
+    ]
+  },
+  {
+    "Name": "Central Michigan University",
+    "State": "Michigan",
+    "Events": [
+      {
+        "Date": "7/5/20",
+        "New Cases": 2,
+        "Source": "https://www.cmich.edu/firedupforfall/Pages/confirmed-cases.aspx"
+      },
+      {
+        "Date": "7/12/20",
+        "New Cases": 4,
+        "Source": "https://www.cmich.edu/firedupforfall/Pages/confirmed-cases.aspx"
+      },
+      {
+        "Date": "7/26/20",
+        "New Cases": 1,
+        "Source": "https://www.cmich.edu/firedupforfall/Pages/confirmed-cases.aspx"
+      }
+    ]
+  },
+  {
+    "Name": "University of Nevada, Las Vegas",
+    "State": "Nevada",
+    "Events": [
+      {
+        "Date": "7/1/20",
+        "New Cases": 1,
+        "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
+      },
+      {
+        "Date": "7/5/20",
+        "New Cases": 1,
+        "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
+      },
+      {
+        "Date": "7/8/20",
+        "New Cases": 1,
+        "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
+      },
+      {
+        "Date": "7/11/20",
+        "New Cases": 1,
+        "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
+      },
+      {
+        "Date": "7/15/20",
+        "New Cases": 1,
+        "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
+      },
+      {
+        "Date": "7/16/20",
+        "New Cases": 1,
+        "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 4,
+        "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
+      }
+    ]
+  },
+  {
+    "Name": "University of Missouri-Kansas City",
+    "State": "Missouri",
+    "Events": [
+      {
+        "Date": "7/8/20",
+        "New Cases": 3,
+        "Source": "https://www.kshb.com/news/coronavirus/3-umkc-student-athletes-test-positive-for-covid-19"
+      }
+    ]
+  },
+  {
+    "Name": "New Mexico State University",
+    "State": "New Mexico",
+    "Events": [
+      {
+        "Date": "7/7/20",
+        "New Cases": 20,
+        "Source": "https://www.ktsm.com/sports/college-sports/nmsu/nm-state-announces-20-additional-positive-covid-19-cases/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Oklahoma",
+    "State": "Oklahoma",
+    "Events": [
+      {
+        "Date": "7/17/20",
+        "New Cases": 1,
+        "Source": "https://soonersports.com/news/2020/7/1/covid-19-testing-data.aspx"
+      }
+    ]
+  },
+  {
+    "Name": "University of Iowa",
+    "State": "Iowa",
+    "Events": [
+      {
+        "Date": "7/28/20",
+        "New Cases": 2,
+        "Source": "https://www.weareiowa.com/article/sports/local-sports/iowa-hawkeyes-mens-basketball-workouts-paused-covid-19-two-cases-on-team/524-ca3c3951-fbdb-425c-a272-23b75244e07d"
+      }
+    ]
+  },
+  {
+    "Name": "Austin Peay State University",
+    "State": "Tennessee",
+    "Events": [
+      {
+        "Date": "7/2/20",
+        "New Cases": 11,
+        "Source": "https://www.apsu.edu/coronavirus/"
+      },
+      {
+        "Date": "7/10/20",
+        "New Cases": 5,
+        "Source": "https://www.apsu.edu/coronavirus/"
+      },
+      {
+        "Date": "7/17/20",
+        "New Cases": 4,
+        "Source": "https://www.apsu.edu/coronavirus/"
+      }
+    ]
+  },
+  {
+    "Name": "University of California, Davis",
+    "State": "Iowa",
+    "Events": [
+      {
+        "Date": "7/2/20",
+        "New Cases": 1,
+        "Source": "https://www.davisenterprise.com/sports/uc-davis-student-athlete-tests-positive-for-covid-19-school-officials-confirm/"
+      }
+    ]
+  },
+  {
+    "Name": "Pepperdine University",
+    "State": "California",
+    "Events": [
+      {
+        "Date": "7/28/20",
+        "New Cases": 16,
+        "Source": "https://www.davisenterprise.com/sports/uc-davis-student-athlete-tests-positive-for-covid-19-school-officials-confirm/"
       }
     ]
   }
