@@ -1,6 +1,9 @@
 import json
 import datetime
+
+from collections import Counter
 from flask import Flask, request, render_template, abort, flash, redirect, url_for
+from states import state_names
 
 application = Flask(__name__, static_url_path="/static")
 application.secret_key = b"fgp2938fsdf?/"
@@ -51,10 +54,25 @@ def get_data_graph(school_name):
     return None
 
 
-def get_names():
+def get_data_by_state(state_name):
     with open("data/data.json", "r") as f:
         data = json.loads(f.read())
-    return sorted([d["Name"] for d in data])
+
+    schools = []
+    for school_json in data:
+        if (
+            school_json["State"].lower().replace(" ", "-").replace(",", "")
+            == state_name
+        ):
+            schools.append(school_json)
+    return schools
+
+
+def get_names():
+    # with open("data/data.json", "r") as f:
+    #    data = json.loads(f.read())
+    # return sorted([d["Name"] for d in data])
+    return state_names.values()
 
 
 @application.route("/", methods=["GET", "POST"])
@@ -65,8 +83,8 @@ def index():
             "index.html", schools=schools, total=total, names=get_names()
         )
     elif request.method == "POST":
-        college = request.form.to_dict(flat=True)["name"]
-        return redirect(f"colleges/{college}")
+        state = request.form.to_dict(flat=True)["name"]
+        return redirect(f"states/{state}")
 
 
 @application.route("/contribute", methods=["GET", "POST"])
@@ -105,6 +123,42 @@ def college(name):
         return render_template("college.html", school=school, names=get_names())
 
 
+@application.route("/states/<name>")
+def state(name):
+    if name not in state_names.keys():
+        abort(404)
+    data = get_data_by_state(name)
+    print(data)
+    if len(data) < 1:  # No schools recorded in state
+        return render_template(
+            "nostatedata.html", names=get_names(), state_name=state_names[name]
+        )
+    else:
+        statedata = {}
+        statedata["names"] = [
+            (school["Name"], sum([event["New Cases"] for event in school["Events"]]))
+            for school in data
+        ]
+
+        count_dicts = [
+            {event["Date"]: event["New Cases"] for event in school["Events"]}
+            for school in data
+        ]
+        print(count_dicts)
+        count_dicts = dict(sum((Counter(d) for d in count_dicts), Counter()))
+
+        statedata["Events"] = [
+            {"Date": k, "New Cases": v} for k, v in count_dicts.items()
+        ]
+        print(statedata)
+        return render_template(
+            "state.html",
+            statedata=statedata,
+            names=get_names(),
+            state_name=state_names[name],
+        )
+
+
 @application.route("/privacy", methods=["GET"])
 def privacy():
     if request.method == "GET":
@@ -115,6 +169,12 @@ def privacy():
 def terms():
     if request.method == "GET":
         return render_template("terms.html", names=get_names())
+
+
+@application.route("/about", methods=["GET"])
+def about():
+    if request.method == "GET":
+        return render_template("about.html", names=get_names())
 
 
 @application.errorhandler(404)

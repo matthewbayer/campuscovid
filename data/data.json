@@ -1,6 +1,7 @@
 [
   {
     "Name": "University of California, Berkeley",
+    "State": "California",
     "Events": [
       {
         "Date": "7/8/20",
@@ -16,6 +17,7 @@
   },
   {
     "Name": "Purdue University",
+    "State": "Indiana",
     "Events": [
       {
         "Date": "7/17/20",
@@ -31,21 +33,18 @@
   },
   {
     "Name": "University of Michigan",
+    "State": "Michigan",
     "Events": [
       {
         "Date": "7/10/20",
         "New Cases": 4,
         "Source": "https://www.mlive.com/wolverines/2020/07/univ-of-michigan-athletics-reports-2-more-covid-19-cases.html"
-      },
-      {
-        "Date": "7/24/20",
-        "New Cases": 5,
-        "Source": "https://www.mlive.com/wolverines/2020/07/michigan-athletics-reports-five-new-covid-19-cases.html"
       }
     ]
   },
   {
     "Name": "University of Texas, Austin",
+    "State": "Texas",
     "Events": [
       {
         "Date": "7/1/20",
@@ -131,6 +130,7 @@
   },
   {
     "Name": "Michigan State University",
+    "State": "Michigan",
     "Events": [
       {
         "Date": "7/17/20",
@@ -139,13 +139,19 @@
       },
       {
         "Date": "7/24/20",
+        "New Cases": 16,
+        "Source": "https://www.lansingstatejournal.com/story/sports/college/msu/2020/07/27/michigan-state-athletics-covid-19-update/5522302002/"
+      },
+      {
+        "Date": "7/27/20",
         "New Cases": 1,
-        "Source": "https://www.nbcnews.com/news/us-news/michigan-state-football-team-quarantines-after-positive-tests-n1234879"
+        "Source": "https://www.lansingstatejournal.com/story/news/2020/07/28/michigan-state-msu-holmes-hall-dormintory-covid-19-case-student/5526378002/"
       }
     ]
   },
   {
     "Name": "University of Arizona",
+    "State": "Arizona",
     "Events": [
       {
         "Date": "7/17/20",
@@ -156,6 +162,7 @@
   },
   {
     "Name": "University of Washington",
+    "State": "Washington",
     "Events": [
       {
         "Date": "7/2/20",
@@ -241,6 +248,7 @@
   },
   {
     "Name": "University of Georgia",
+    "State": "Georgia",
     "Events": [
       {
         "Date": "7/2/20",
@@ -251,6 +259,7 @@
   },
   {
     "Name": "University of Maryland",
+    "State": "Maryland",
     "Events": [
       {
         "Date": "7/11/20",
@@ -266,6 +275,7 @@
   },
   {
     "Name": "University of Tennessee at Chattanooga",
+    "State": "Tennessee",
     "Events": [
       {
         "Date": "7/16/20",
@@ -276,6 +286,7 @@
   },
   {
     "Name": "University of North Carolina",
+    "State": "North Carolina",
     "Events": [
       {
         "Date": "7/8/20",
@@ -286,6 +297,7 @@
   },
   {
     "Name": "Iowa State University",
+    "State": "Iowa",
     "Events": [
       {
         "Date": "7/20/20",
@@ -296,16 +308,18 @@
   },
   {
     "Name": "Carroll College",
+    "State": "Montana",
     "Events": [
       {
         "Date": "7/19/20",
         "New Cases": 1,
-        "Source": "https://fox28spokane.com/carroll-college-students-test-positive-for-covid-19/"
+        "Source": "https://www.khq.com/regional/carroll-college-students-test-positive-for-covid-19/article_6b0a1647-56bd-545d-bba2-6f37b6c7998f.html"
       }
     ]
   },
   {
     "Name": "Northeast State Community College",
+    "State": "Tennessee",
     "Events": [
       {
         "Date": "7/11/20",
@@ -316,6 +330,7 @@
   },
   {
     "Name": "Del Mar College",
+    "State": "Texas",
     "Events": [
       {
         "Date": "7/1/20",
@@ -331,6 +346,7 @@
   },
   {
     "Name": "Morgan State University",
+    "State": "Maryland",
     "Events": [
       {
         "Date": "7/24/20",
@@ -341,6 +357,7 @@
   },
   {
     "Name": "Penn State University",
+    "State": "Pennsylvania",
     "Events": [
       {
         "Date": "7/24/20",
@@ -351,6 +368,7 @@
   },
   {
     "Name": "Virginia Western Community College",
+    "State": "Virginia",
     "Events": [
       {
         "Date": "7/20/20",
@@ -361,6 +379,7 @@
   },
   {
     "Name": "St Norbert College",
+    "State": "Wisconsin",
     "Events": [
       {
         "Date": "7/1/20",
@@ -371,6 +390,7 @@
   },
   {
     "Name": "Washburn University",
+    "State": "Kansas",
     "Events": [
       {
         "Date": "7/24/20",
@@ -381,6 +401,7 @@
   },
   {
     "Name": "Missouri State University",
+    "State": "Missouri",
     "Events": [
       {
         "Date": "7/13/20",
@@ -416,11 +437,22 @@
         "Date": "7/23/20",
         "New Cases": 18,
         "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 14,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/25/20",
+        "New Cases": 2,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
       }
     ]
   },
   {
     "Name": "Bradley University",
+    "State": "Illinois",
     "Events": [
       {
         "Date": "7/24/20",
@@ -431,6 +463,7 @@
   },
   {
     "Name": "Illinois State University",
+    "State": "Illinois",
     "Events": [
       {
         "Date": "7/23/20",
@@ -441,6 +474,7 @@
   },
   {
     "Name": "West Virginia University",
+    "State": "West Virginia",
     "Events": [
       {
         "Date": "7/4/20",
@@ -451,6 +485,7 @@
   },
   {
     "Name": "Kansas State University",
+    "State": "Kansas",
     "Events": [
       {
         "Date": "7/13/20",
@@ -461,6 +496,7 @@
   },
   {
     "Name": "American University",
+    "State": "District of Columbia",
     "Events": [
       {
         "Date": "7/13/20",
@@ -471,6 +507,7 @@
   },
   {
     "Name": "University of Oregon",
+    "State": "Oregon",
     "Events": [
       {
         "Date": "7/1/20",
@@ -526,9 +563,15 @@
   },
   {
     "Name": "University of Southern California",
+    "State": "California",
     "Events": [
       {
-        "Date": "7/16/20",
+        "Date": "7/4/20",
+        "New Cases": 12,
+        "Source": "https://coronavirus.usc.edu/2020/07/12/testing-numbers-6-28-7-4/"
+      },
+      {
+        "Date": "7/11/20",
         "New Cases": 27,
         "Source": "https://dailytrojan.com/2020/07/16/coronavirus-positivity-rate-spikes-among-students-tested-at-student-health/"
       }
@@ -536,6 +579,7 @@
   },
   {
     "Name": "Gonzaga University",
+    "State": "Washington",
     "Events": [
       {
         "Date": "7/20/20",
@@ -546,6 +590,7 @@
   },
   {
     "Name": "Texas A&M University",
+    "State": "Texas",
     "Events": [
       {
         "Date": "7/25/20",
@@ -556,6 +601,7 @@
   },
   {
     "Name": "Rice University",
+    "State": "Texas",
     "Events": [
       {
         "Date": "7/17/20",
@@ -566,6 +612,7 @@
   },
   {
     "Name": "Georgia Institute of Technology",
+    "State": "Georgia",
     "Events": [
       {
         "Date": "7/3/20",
@@ -656,11 +703,17 @@
         "Date": "7/25/20",
         "New Cases": 3,
         "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/27/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
       }
     ]
   },
   {
     "Name": "University of Virginia",
+    "State": "Virginia",
     "Events": [
       {
         "Date": "7/24/20",
@@ -671,6 +724,7 @@
   },
   {
     "Name": "Rappahannock Community College",
+    "State": "Virginia",
     "Events": [
       {
         "Date": "7/14/20",
@@ -681,6 +735,7 @@
   },
   {
     "Name": "Tyler Junior College",
+    "State": "Texas",
     "Events": [
       {
         "Date": "7/3/20",
@@ -695,12 +750,13 @@
       {
         "Date": "7/15/20",
         "New Cases": 5,
-        "Source": "https://www.nbc12.com/2020/07/14/student-tests-positive-covid-rappahannock-community-college/"
+        "Source": "https://www.easttexasmatters.com/health/coronavirus/three-more-tyler-junior-college-students-test-positive-for-the-coronavirus-up-to-five-total/"
       }
     ]
   },
   {
     "Name": "Rutgers University",
+    "State": "New Jersey",
     "Events": [
       {
         "Date": "7/25/20",
@@ -711,6 +767,7 @@
   },
   {
     "Name": "University of Pittsburgh",
+    "State": "Pennsylvania",
     "Events": [
       {
         "Date": "7/10/20",
@@ -731,6 +788,7 @@
   },
   {
     "Name": "University of Notre Dame",
+    "State": "Indiana",
     "Events": [
       {
         "Date": "7/20/20",
@@ -741,6 +799,7 @@
   },
   {
     "Name": "Berry College",
+    "State": "Georgia",
     "Events": [
       {
         "Date": "7/15/20",
@@ -751,6 +810,7 @@
   },
   {
     "Name": "Southern Methodist University",
+    "State": "Texas",
     "Events": [
       {
         "Date": "7/6/20",
@@ -781,11 +841,17 @@
         "Date": "7/24/20",
         "New Cases": 2,
         "Source": "https://blog.smu.edu/coronavirus-covid-19/smu-cases/"
+      },
+      {
+        "Date": "7/28/20",
+        "New Cases": 3,
+        "Source": "https://blog.smu.edu/coronavirus-covid-19/smu-cases/"
       }
     ]
   },
   {
     "Name": "Binghamton University",
+    "State": "New York",
     "Events": [
       {
         "Date": "7/9/20",
@@ -796,6 +862,7 @@
   },
   {
     "Name": "College of Idaho",
+    "State": "Idaho",
     "Events": [
       {
         "Date": "7/24/20",
@@ -806,6 +873,7 @@
   },
   {
     "Name": "University of Nevada, Reno",
+    "State": "Nevada",
     "Events": [
       {
         "Date": "7/3/20",
@@ -876,6 +944,321 @@
         "Date": "7/27/20",
         "New Cases": 2,
         "Source": "https://www.unr.edu/coronavirus/cases"
+      }
+    ]
+  },
+  {
+    "Name": "Texas State University",
+    "State": "Texas",
+    "Events": [
+      {
+        "Date": "7/2/20",
+        "New Cases": 4,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "7/3/20",
+        "New Cases": 1,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "7/6/20",
+        "New Cases": 4,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "7/8/20",
+        "New Cases": 3,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "7/10/20",
+        "New Cases": 1,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "7/16/20",
+        "New Cases": 1,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "7/20/20",
+        "New Cases": 1,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "7/21/20",
+        "New Cases": 2,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "7/22/20",
+        "New Cases": 1,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 1,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "7/28/20",
+        "New Cases": 1,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      }
+    ]
+  },
+  {
+    "Name": "California Polytechnic State University, San Luis Obispo",
+    "State": "California",
+    "Events": [
+      {
+        "Date": "7/27/20",
+        "New Cases": 18,
+        "Source": "https://coronavirus.calpoly.edu/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Mississippi",
+    "State": "Mississippi",
+    "Events": [
+      {
+        "Date": "7/2/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/3/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/4/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/7/20",
+        "New Cases": 5,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/8/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/10/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/14/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/15/20",
+        "New Cases": 3,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/16/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/20/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/21/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/22/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/23/20",
+        "New Cases": 2,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 2,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/27/20",
+        "New Cases": 3,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      }
+    ]
+  },
+  {
+    "Name": "California Institute of Technology",
+    "State": "California",
+    "Events": [
+      {
+        "Date": "7/27/20",
+        "New Cases": 1,
+        "Source": "http://coronavirus.caltech.edu/resources/cases-testing-and-tracing"
+      }
+    ]
+  },
+  {
+    "Name": "Embry-Riddle Aeronautical University",
+    "State": "Florida",
+    "Events": [
+      {
+        "Date": "7/9/20",
+        "New Cases": 10,
+        "Source": "https://news.erau.edu/headlines/embry-riddle-reports-latest-covid-19-test-results"
+      },
+      {
+        "Date": "7/16/20",
+        "New Cases": 4,
+        "Source": "https://news.erau.edu/headlines/embry-riddle-reports-latest-covid-19-test-results-july-16"
+      },
+      {
+        "Date": "7/23/20",
+        "New Cases": 6,
+        "Source": "https://news.erau.edu/headlines/embry-riddle-reports-latest-covid-19-test-results-july-23"
+      }
+    ]
+  },
+  {
+    "Name": "University of Kansas",
+    "State": "Kansas",
+    "Events": [
+      {
+        "Date": "7/3/20",
+        "New Cases": 16,
+        "Source": "https://www.kmbc.com/article/ku-jayhawks-football-team-suspends-voluntary-workouts-because-of-covid-19-coronavirus/33134534#"
+      }
+    ]
+  },
+  {
+    "Name": "University of Florida",
+    "State": "Florida",
+    "Events": [
+      {
+        "Date": "7/22/20",
+        "New Cases": 163,
+        "Source": "https://coronavirus.ufhealth.org/screen-test-protect/"
+      }
+    ]
+  },
+  {
+    "Name": "University of South Florida",
+    "State": "Florida",
+    "Events": [
+      {
+        "Date": "7/2/20",
+        "New Cases": 5,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/3/20",
+        "New Cases": 1,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/6/20",
+        "New Cases": 1,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/7/20",
+        "New Cases": 5,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/8/20",
+        "New Cases": 2,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/9/20",
+        "New Cases": 10,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/10/20",
+        "New Cases": 1,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/11/20",
+        "New Cases": 2,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/13/20",
+        "New Cases": 2,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/14/20",
+        "New Cases": 2,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/17/20",
+        "New Cases": 1,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/18/20",
+        "New Cases": 2,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/19/20",
+        "New Cases": 1,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/20/20",
+        "New Cases": 1,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/23/20",
+        "New Cases": 6,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/27/20",
+        "New Cases": 1,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      }
+    ]
+  },
+  {
+    "Name": "Northern Michigan University",
+    "State": "Michigan",
+    "Events": [
+      {
+        "Date": "7/27/20",
+        "New Cases": 1,
+        "Source": "https://upnorthlive.com/news/local/northern-michigan-university-student-tests-positive-for-covid-19"
+      }
+    ]
+  },
+  {
+    "Name": "Northern Arizona University",
+    "State": "Arizona",
+    "Events": [
+      {
+        "Date": "7/20/20",
+        "New Cases": 1,
+        "Source": "https://www.azcentral.com/story/sports/college/nau/2020/07/20/some-nau-student-athletes-covid-19-positive-officials-confirm/5476752002/"
       }
     ]
   }

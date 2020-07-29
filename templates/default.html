@@ -60,11 +60,11 @@
       <li class="nav-item">
         <a class="nav-link" href="/contribute">Contribute Data</a>
       </li>
-      <!-- <li class="nav-item">
-        <a class="nav-link" href="/learn">Learn more</a>
-      </li>-->
       <li class="nav-item">
-        <a class="nav-link" href="/contact">Contact Us</a>
+        <a class="nav-link" href="/about">About Us</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/contact">Contact</a>
       </li>
     </ul>
     <ul class="navbar-nav justify-content-end">
@@ -74,7 +74,7 @@
         <select class="browser-default custom-select" name="name" id="search_name" searchable="Search colleges.."
           required>
           <!--<option value="" disabled selected required>Search colleges..</option>-->
-          <option value="" disabled selected hidden>Search colleges...</option>
+          <option value="" disabled selected hidden>Search colleges by state...</option>
 
           {% for name in names %}
           <option value={{name.lower().replace(" ", "-").replace(",", "")}}>{{name}}</option>
