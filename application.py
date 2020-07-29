@@ -128,7 +128,6 @@ def state(name):
     if name not in state_names.keys():
         abort(404)
     data = get_data_by_state(name)
-    print(data)
     if len(data) < 1:  # No schools recorded in state
         return render_template(
             "nostatedata.html", names=get_names(), state_name=state_names[name]
@@ -144,13 +143,13 @@ def state(name):
             {event["Date"]: event["New Cases"] for event in school["Events"]}
             for school in data
         ]
-        print(count_dicts)
         count_dicts = dict(sum((Counter(d) for d in count_dicts), Counter()))
 
         statedata["Events"] = [
             {"Date": k, "New Cases": v} for k, v in count_dicts.items()
         ]
-        print(statedata)
+        statedata["names"] = sorted(statedata["names"], key=lambda x: -x[1])
+
         return render_template(
             "state.html",
             statedata=statedata,

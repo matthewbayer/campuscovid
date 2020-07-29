@@ -1261,5 +1261,21 @@
         "Source": "https://www.azcentral.com/story/sports/college/nau/2020/07/20/some-nau-student-athletes-covid-19-positive-officials-confirm/5476752002/"
       }
     ]
+  },
+  {
+    "Name": "Carnegie Mellon University",
+    "State": "Pennsylvania",
+    "Events": [
+      {
+        "Date": "7/20/20",
+        "New Cases": 2,
+        "Source": "https://www.cmu.edu/coronavirus/health-and-wellness/dashboard.html"
+      },
+      {
+        "Date": "7/27/20",
+        "New Cases": 2,
+        "Source": "https://www.cmu.edu/coronavirus/health-and-wellness/dashboard.html"
+      }
+    ]
   }
 ]
