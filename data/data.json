@@ -243,6 +243,26 @@
         "Date": "7/25/20",
         "New Cases": 1,
         "Source": "https://www.washington.edu/coronavirus/testing-results/"
+      },
+      {
+        "Date": "7/29/20",
+        "New Cases": 2,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
+      },
+      {
+        "Date": "7/30/20",
+        "New Cases": 1,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
+      },
+      {
+        "Date": "7/31/20",
+        "New Cases": 3,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
+      },
+      {
+        "Date": "8/9/20",
+        "New Cases": 1,
+        "Source": "https://www.washington.edu/coronavirus/testing-results/"
       }
     ]
   },
@@ -452,6 +472,51 @@
         "Date": "7/25/20",
         "New Cases": 2,
         "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/28/20",
+        "New Cases": 4,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/29/20",
+        "New Cases": 4,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/30/20",
+        "New Cases": 4,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "7/31/20",
+        "New Cases": 1,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "8/3/20",
+        "New Cases": 2,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "8/4/20",
+        "New Cases": 1,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "8/5/20",
+        "New Cases": 7,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "8/6/20",
+        "New Cases": 1,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
+      },
+      {
+        "Date": "8/9/20",
+        "New Cases": 1,
+        "Source": "https://www.missouristate.edu/Coronavirus/confirmed-cases.htm"
       }
     ]
   },
@@ -463,6 +528,11 @@
         "Date": "7/24/20",
         "New Cases": 8,
         "Source": "https://www.centralillinoisproud.com/news/top-stories/bradley-university-orientation-members-test-positive-for-covid-19/"
+      },
+      {
+        "Date": "7/30/20",
+        "New Cases": 4,
+        "Source": "https://www.chicagotribune.com/coronavirus/ct-coronavirus-illinois-bradley-university-outbreak-20200730-ebe5vfsz25g33hijkhnc5vplbu-story.html"
       }
     ]
   },
@@ -563,6 +633,11 @@
         "Date": "7/24/20",
         "New Cases": 2,
         "Source": "https://www.uoregon.edu/uo-covid-19-cases"
+      },
+      {
+        "Date": "7/29/20",
+        "New Cases": 1,
+        "Source": "https://www.uoregon.edu/uo-covid-19-cases"
       }
     ]
   },
@@ -579,6 +654,11 @@
         "Date": "7/11/20",
         "New Cases": 27,
         "Source": "https://dailytrojan.com/2020/07/16/coronavirus-positivity-rate-spikes-among-students-tested-at-student-health/"
+      },
+      {
+        "Date": "7/30/20",
+        "New Cases": 44,
+        "Source": "https://losangeles.cbslocal.com/2020/07/30/coronavirus-outbreak-reported-at-uscs-fraternity-row-after-44-people-test-positive/"
       }
     ]
   },
@@ -713,6 +793,36 @@
         "Date": "7/27/20",
         "New Cases": 1,
         "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/29/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/30/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "7/31/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "8/1/20",
+        "New Cases": 3,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "8/2/20",
+        "New Cases": 1,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
+      },
+      {
+        "Date": "8/4/20",
+        "New Cases": 3,
+        "Source": "http://health.gatech.edu/coronavirus/health-alerts"
       }
     ]
   },
@@ -788,6 +898,16 @@
         "Date": "7/24/20",
         "New Cases": 2,
         "Source": "https://www.coronavirus.pitt.edu/covid-19-campus/campus-cases"
+      },
+      {
+        "Date": "7/31/20",
+        "New Cases": 3,
+        "Source": "https://www.coronavirus.pitt.edu/covid-19-campus/campus-cases"
+      },
+      {
+        "Date": "8/7/20",
+        "New Cases": 4,
+        "Source": "https://www.coronavirus.pitt.edu/covid-19-campus/campus-cases"
       }
     ]
   },
@@ -799,6 +919,11 @@
         "Date": "7/20/20",
         "New Cases": 1,
         "Source": "https://www.ndinsider.com/football/second-notre-dame-football-player-tests-positive-for-covid-19/article_6ba9913a-a037-5f9e-9fcf-e15004e21759.html"
+      },
+      {
+        "Date": "8/10/20",
+        "New Cases": 33,
+        "Source": "https://news.nd.edu/news/99-7-of-notre-dame-students-tested-covid-free-before-returning-to-campus/"
       }
     ]
   },
@@ -851,6 +976,16 @@
         "Date": "7/28/20",
         "New Cases": 3,
         "Source": "https://blog.smu.edu/coronavirus-covid-19/smu-cases/"
+      },
+      {
+        "Date": "8/6/20",
+        "New Cases": 1,
+        "Source": "https://blog.smu.edu/coronavirus-covid-19/smu-cases/"
+      },
+      {
+        "Date": "8/7/20",
+        "New Cases": 2,
+        "Source": "https://blog.smu.edu/coronavirus-covid-19/smu-cases/"
       }
     ]
   },
@@ -871,7 +1006,12 @@
     "Events": [
       {
         "Date": "7/24/20",
-        "New Cases": 18,
+        "New Cases": 19,
+        "Source": "https://www.collegeofidaho.edu/covid-19-updates"
+      },
+      {
+        "Date": "8/10/20",
+        "New Cases": 1,
         "Source": "https://www.collegeofidaho.edu/covid-19-updates"
       }
     ]
@@ -949,6 +1089,26 @@
         "Date": "7/27/20",
         "New Cases": 2,
         "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "7/29/20",
+        "New Cases": 1,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "8/1/20",
+        "New Cases": 3,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "8/3/20",
+        "New Cases": 1,
+        "Source": "https://www.unr.edu/coronavirus/cases"
+      },
+      {
+        "Date": "8/5/20",
+        "New Cases": 1,
+        "Source": "https://www.unr.edu/coronavirus/cases"
       }
     ]
   },
@@ -1010,6 +1170,21 @@
         "Date": "7/28/20",
         "New Cases": 1,
         "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "7/31/20",
+        "New Cases": 1,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "8/5/20",
+        "New Cases": 2,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
+      },
+      {
+        "Date": "8/7/20",
+        "New Cases": 1,
+        "Source": "https://www.txstate.edu/coronavirus/road-map.html"
       }
     ]
   },
@@ -1020,6 +1195,11 @@
       {
         "Date": "7/27/20",
         "New Cases": 18,
+        "Source": "https://coronavirus.calpoly.edu/"
+      },
+      {
+        "Date": "8/10/20",
+        "New Cases": 3,
         "Source": "https://coronavirus.calpoly.edu/"
       }
     ]
@@ -1102,6 +1282,41 @@
         "Date": "7/27/20",
         "New Cases": 3,
         "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/28/20",
+        "New Cases": 2,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/29/20",
+        "New Cases": 4,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "7/30/20",
+        "New Cases": 4,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "8/2/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "8/5/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "8/7/20",
+        "New Cases": 4,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
+      },
+      {
+        "Date": "8/9/20",
+        "New Cases": 1,
+        "Source": "https://coronavirus.olemiss.edu/confirmed-cases-reported-to-um/"
       }
     ]
   },
@@ -1155,6 +1370,16 @@
       {
         "Date": "7/22/20",
         "New Cases": 163,
+        "Source": "https://coronavirus.ufhealth.org/screen-test-protect/"
+      },
+      {
+        "Date": "8/6/20",
+        "New Cases": 17,
+        "Source": "https://coronavirus.ufhealth.org/screen-test-protect/"
+      },
+      {
+        "Date": "8/10/20",
+        "New Cases": 3,
         "Source": "https://coronavirus.ufhealth.org/screen-test-protect/"
       }
     ]
@@ -1242,6 +1467,41 @@
         "Date": "7/27/20",
         "New Cases": 1,
         "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/28/20",
+        "New Cases": 1,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "7/29/20",
+        "New Cases": 2,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "8/2/20",
+        "New Cases": 3,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "8/3/20",
+        "New Cases": 2,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "8/4/20",
+        "New Cases": 3,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "8/5/20",
+        "New Cases": 1,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
+      },
+      {
+        "Date": "8/6/20",
+        "New Cases": 1,
+        "Source": "https://www.usf.edu/coronavirus/updates/usf-cases.aspx"
       }
     ]
   },
@@ -1279,6 +1539,11 @@
       {
         "Date": "7/27/20",
         "New Cases": 2,
+        "Source": "https://www.cmu.edu/coronavirus/health-and-wellness/dashboard.html"
+      },
+      {
+        "Date": "8/3/20",
+        "New Cases": 1,
         "Source": "https://www.cmu.edu/coronavirus/health-and-wellness/dashboard.html"
       }
     ]
@@ -1382,6 +1647,21 @@
         "Date": "7/28/20",
         "New Cases": 1,
         "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "8/1/20",
+        "New Cases": 2,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "8/6/20",
+        "New Cases": 1,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
+      },
+      {
+        "Date": "8/9/20",
+        "New Cases": 1,
+        "Source": "https://covid-19.ucla.edu/confirmed-cases-of-covid-19-among-the-ucla-campus-community/"
       }
     ]
   },
@@ -1392,6 +1672,16 @@
       {
         "Date": "7/29/20",
         "New Cases": 47,
+        "Source": "https://www.appstate.edu/go/coronavirus/"
+      },
+      {
+        "Date": "8/4/20",
+        "New Cases": 6,
+        "Source": "https://www.appstate.edu/go/coronavirus/"
+      },
+      {
+        "Date": "8/10/20",
+        "New Cases": 8,
         "Source": "https://www.appstate.edu/go/coronavirus/"
       }
     ]
@@ -1439,6 +1729,16 @@
         "Date": "7/27/20",
         "New Cases": 1,
         "Source": "https://www.shsu.edu/katsafe/covid/coronavirus-cases"
+      },
+      {
+        "Date": "8/4/20",
+        "New Cases": 2,
+        "Source": "https://www.shsu.edu/katsafe/covid/coronavirus-cases"
+      },
+      {
+        "Date": "8/5/20",
+        "New Cases": 1,
+        "Source": "https://www.shsu.edu/katsafe/covid/coronavirus-cases"
       }
     ]
   },
@@ -1460,6 +1760,11 @@
         "Date": "7/27/20",
         "New Cases": 4,
         "Source": "https://www.georgetown.edu/news/tag/covid-19-confirmed-cases/"
+      },
+      {
+        "Date": "8/4/20",
+        "New Cases": 5,
+        "Source": "https://www.georgetown.edu/news/tag/covid-19-confirmed-cases/"
       }
     ]
   },
@@ -1470,7 +1775,7 @@
       {
         "Date": "7/14/20",
         "New Cases": 4,
-        "Source": "https://www.appstate.edu/go/coronavirus/"
+        "Source": "https://www.usatoday.com/story/news/nation/2020/07/14/west-point-class-2024-arrives-amid-coronavirus-concerns-covid-cases/5433751002/"
       }
     ]
   },
@@ -1480,7 +1785,7 @@
     "Events": [
       {
         "Date": "7/15/20",
-        "New Cases": 1,
+        "New Cases": 3,
         "Source": "https://www.princeton.edu/content/covid-19-coronavirus-information"
       }
     ]
@@ -1502,6 +1807,16 @@
       {
         "Date": "7/23/20",
         "New Cases": 4,
+        "Source": "https://www.northwestern.edu/coronavirus-covid-19-updates/developments/confirmed-cases.html"
+      },
+      {
+        "Date": "7/30/20",
+        "New Cases": 1,
+        "Source": "https://www.northwestern.edu/coronavirus-covid-19-updates/developments/confirmed-cases.html"
+      },
+      {
+        "Date": "8/6/20",
+        "New Cases": 7,
         "Source": "https://www.northwestern.edu/coronavirus-covid-19-updates/developments/confirmed-cases.html"
       }
     ]
@@ -1568,6 +1883,16 @@
         "Date": "7/26/20",
         "New Cases": 1,
         "Source": "https://www.cmich.edu/firedupforfall/Pages/confirmed-cases.aspx"
+      },
+      {
+        "Date": "8/2/20",
+        "New Cases": 2,
+        "Source": "https://www.cmich.edu/firedupforfall/Pages/confirmed-cases.aspx"
+      },
+      {
+        "Date": "8/9/20",
+        "New Cases": 2,
+        "Source": "https://www.cmich.edu/firedupforfall/Pages/confirmed-cases.aspx"
       }
     ]
   },
@@ -1608,6 +1933,26 @@
       {
         "Date": "7/24/20",
         "New Cases": 4,
+        "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
+      },
+      {
+        "Date": "7/30/20",
+        "New Cases": 1,
+        "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
+      },
+      {
+        "Date": "8/1/20",
+        "New Cases": 1,
+        "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
+      },
+      {
+        "Date": "8/3/20",
+        "New Cases": 2,
+        "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
+      },
+      {
+        "Date": "8/5/20",
+        "New Cases": 12,
         "Source": "https://www.unlv.edu/coronavirus/confirmed-cases"
       }
     ]
@@ -1696,6 +2041,339 @@
         "Date": "7/28/20",
         "New Cases": 16,
         "Source": "https://www.davisenterprise.com/sports/uc-davis-student-athlete-tests-positive-for-covid-19-school-officials-confirm/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Evansville",
+    "State": "Indiana",
+    "Events": [
+      {
+        "Date": "7/14/20",
+        "New Cases": 13,
+        "Source": "https://www.evansville.edu/coronavirus/update-2020-07-14-athletics.cfm"
+      }
+    ]
+  },
+  {
+    "Name": "Marshall University",
+    "State": "West Virginia",
+    "Events": [
+      {
+        "Date": "7/23/20",
+        "New Cases": 14,
+        "Source": "https://www.marshall.edu/coronavirus/"
+      },
+      {
+        "Date": "7/31/20",
+        "New Cases": 3,
+        "Source": "https://www.marshall.edu/coronavirus/"
+      }
+    ]
+  },
+  {
+    "Name": "College of Southern Nevada",
+    "State": "Nevada",
+    "Events": [
+      {
+        "Date": "7/15/20",
+        "New Cases": 2,
+        "Source": "https://at.csn.edu/coronavirus/confirmed"
+      },
+      {
+        "Date": "7/16/20",
+        "New Cases": 2,
+        "Source": "https://at.csn.edu/coronavirus/confirmed"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 1,
+        "Source": "https://at.csn.edu/coronavirus/confirmed"
+      },
+      {
+        "Date": "7/31/20",
+        "New Cases": 1,
+        "Source": "https://at.csn.edu/coronavirus/confirmed"
+      },
+      {
+        "Date": "8/5/20",
+        "New Cases": 1,
+        "Source": "https://at.csn.edu/coronavirus/confirmed"
+      }
+    ]
+  },
+  {
+    "Name": "University of Massachusetts, Amherst",
+    "State": "Massachusetts",
+    "Events": [
+      {
+        "Date": "7/1/20",
+        "New Cases": 1,
+        "Source": "https://www.umass.edu/coronavirus/confirmed-cases-covid-19-umass-amherst"
+      },
+      {
+        "Date": "7/9/20",
+        "New Cases": 1,
+        "Source": "https://www.umass.edu/coronavirus/confirmed-cases-covid-19-umass-amherst"
+      },
+      {
+        "Date": "7/30/20",
+        "New Cases": 6,
+        "Source": "https://www.umass.edu/coronavirus/confirmed-cases-covid-19-umass-amherst"
+      }
+    ]
+  },
+  {
+    "Name": "North Dakota State University",
+    "State": "North Dakota",
+    "Events": [
+      {
+        "Date": "7/20/20",
+        "New Cases": 13,
+        "Source": "https://www.valleynewslive.com/2020/07/20/13-ndsu-student-athletes-have-tested-positive-for-covid-19/"
+      }
+    ]
+  },
+  {
+    "Name": "Michigan Technological University",
+    "State": "Michigan",
+    "Events": [
+      {
+        "Date": "7/20/20",
+        "New Cases": 2,
+        "Source": "https://www.mininggazette.com/news/local-news/2020/07/mtu-announces-two-positive-covid-cases/"
+      },
+      {
+        "Date": "7/31/20",
+        "New Cases": 2,
+        "Source": "https://www.mtu.edu/flex/testing-statistics/"
+      }
+    ]
+  },
+  {
+    "Name": "Colorado State University",
+    "State": "Colorado",
+    "Events": [
+      {
+        "Date": "7/29/20",
+        "New Cases": 15,
+        "Source": "https://coronavirus.rice.edu/news/message-president-leebron-july-17"
+      }
+    ]
+  },
+  {
+    "Name": "Northern State University",
+    "State": "South Dakota",
+    "Events": [
+      {
+        "Date": "7/30/20",
+        "New Cases": 8,
+        "Source": "https://www.keloland.com/news/local-news/2-south-dakota-college-campuses-dealing-with-covid-19-cases/"
+      }
+    ]
+  },
+  {
+    "Name": "Augustana University",
+    "State": "South Dakota",
+    "Events": [
+      {
+        "Date": "7/30/20",
+        "New Cases": 6,
+        "Source": "https://www.keloland.com/news/local-news/2-south-dakota-college-campuses-dealing-with-covid-19-cases/"
+      }
+    ]
+  },
+  {
+    "Name": "Stanford University",
+    "State": "California",
+    "Events": [
+      {
+        "Date": "7/22/20",
+        "New Cases": 7,
+        "Source": "https://www.nbcbayarea.com/news/local/7-stanford-athletes-test-positive-for-coronavirus/2330600/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Northern Colorado",
+    "State": "Colorado",
+    "Events": [
+      {
+        "Date": "7/15/20",
+        "New Cases": 2,
+        "Source": "https://www.unco.edu/coronavirus/health-alerts/"
+      },
+      {
+        "Date": "7/16/20",
+        "New Cases": 1,
+        "Source": "https://www.unco.edu/coronavirus/health-alerts/"
+      },
+      {
+        "Date": "7/18/20",
+        "New Cases": 1,
+        "Source": "https://www.unco.edu/coronavirus/health-alerts/"
+      },
+      {
+        "Date": "7/19/20",
+        "New Cases": 1,
+        "Source": "https://www.unco.edu/coronavirus/health-alerts/"
+      },
+      {
+        "Date": "7/20/20",
+        "New Cases": 2,
+        "Source": "https://www.unco.edu/coronavirus/health-alerts/"
+      },
+      {
+        "Date": "7/21/20",
+        "New Cases": 1,
+        "Source": "https://www.unco.edu/coronavirus/health-alerts/"
+      },
+      {
+        "Date": "7/24/20",
+        "New Cases": 1,
+        "Source": "https://www.unco.edu/coronavirus/health-alerts/"
+      }
+    ]
+  },
+  {
+    "Name": "Fisk University",
+    "State": "Tennessee",
+    "Events": [
+      {
+        "Date": "8/6/20",
+        "New Cases": 1,
+        "Source": "https://fox17.com/news/local/fisk-university-confirms-student-tests-positive-for-covid-19"
+      }
+    ]
+  },
+  {
+    "Name": "University of Louisville",
+    "State": "Kentucky",
+    "Events": [
+      {
+        "Date": "7/31/20",
+        "New Cases": 13,
+        "Source": "https://www.courier-journal.com/story/sports/college/louisville/2020/08/05/u-l-athletics-4-sport-workouts-paused-after-29-test-positive/3300339001/"
+      },
+      {
+        "Date": "8/5/20",
+        "New Cases": 29,
+        "Source": "https://www.courier-journal.com/story/sports/college/louisville/2020/08/05/u-l-athletics-4-sport-workouts-paused-after-29-test-positive/3300339001/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Vermont",
+    "State": "Vermont",
+    "Events": [
+      {
+        "Date": "8/4/20",
+        "New Cases": 2,
+        "Source": "https://vtdigger.org/2020/08/04/two-from-uvm-basketball-test-positive-for-covid-19/"
+      }
+    ]
+  },
+  {
+    "Name": "DePaul University",
+    "State": "Illinois",
+    "Events": [
+      {
+        "Date": "8/6/20",
+        "New Cases": 1,
+        "Source": "https://abc7chicago.com/coronavirus-illinois-chicago-depaul-university-student-tests-positive/6357115/"
+      }
+    ]
+  },
+  {
+    "Name": "Fort Valley State University",
+    "State": "Georgia",
+    "Events": [
+      {
+        "Date": "8/6/20",
+        "New Cases": 2,
+        "Source": "https://41nbc.com/2020/08/06/two-fort-valley-state-university-students-test-positive-covid-19/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Detroit Mercy",
+    "State": "Michigan",
+    "Events": [
+      {
+        "Date": "7/31/20",
+        "New Cases": 5,
+        "Source": "https://www.clickondetroit.com/news/defenders/2020/07/31/5-students-test-positive-for-covid-19-at-university-of-detroit-mercys-school-of-dentistry/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Idaho",
+    "State": "Idaho",
+    "Events": [
+      {
+        "Date": "8/4/20",
+        "New Cases": 9,
+        "Source": "https://www.spokesman.com/stories/2020/aug/04/university-of-idaho-confirms-nine-athletes-have-te/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Nebraska",
+    "State": "Nebraska",
+    "Events": [
+      {
+        "Date": "8/6/20",
+        "New Cases": 22,
+        "Source": "https://krvn.com/regional-news/university-of-nebraska-kearney-reports-23-people-test-positive-for-covid-19-on-campus/"
+      }
+    ]
+  },
+  {
+    "Name": "University of Kentucky",
+    "State": "Kentucky",
+    "Events": [
+      {
+        "Date": "8/7/20",
+        "New Cases": 12,
+        "Source": "https://kentuckysportsradio.com/main/university-of-kentucky-releases-test-results-from-initial-round-of-student-covid-19-testing/"
+      }
+    ]
+  },
+  {
+    "Name": "Virginia Military Institute",
+    "State": "Virginia",
+    "Events": [
+      {
+        "Date": "7/12/20",
+        "New Cases": 1,
+        "Source": "https://www.vmi.edu/cadet-life/health-and-safety/coronavirus-updates/"
+      },
+      {
+        "Date": "7/17/20",
+        "New Cases": 1,
+        "Source": "https://www.vmi.edu/cadet-life/health-and-safety/coronavirus-updates/"
+      }
+    ]
+  },
+  {
+    "Name": "Norwich University",
+    "State": "Vermont",
+    "Events": [
+      {
+        "Date": "8/11/20",
+        "New Cases": 3,
+        "Source": "https://www.wcax.com/2020/08/11/norwich-university-students-test-positive-for-covid-19/"
+      }
+    ]
+  },
+  {
+    "Name": "Cornell University",
+    "State": "New York",
+    "Events": [
+      {
+        "Date": "8/10/20",
+        "New Cases": 3,
+        "Source": "https://news.cornell.edu/stories/2020/08/covid-testing-strong-start-cornell-urges-vigilance"
       }
     ]
   }

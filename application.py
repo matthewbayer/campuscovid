@@ -2,7 +2,16 @@ import json
 import datetime
 
 from collections import Counter
-from flask import Flask, request, render_template, abort, flash, redirect, url_for
+from flask import (
+    Flask,
+    request,
+    render_template,
+    abort,
+    flash,
+    redirect,
+    url_for,
+    send_file,
+)
 from states import state_names
 
 application = Flask(__name__, static_url_path="/static")
@@ -179,6 +188,11 @@ def about():
 @application.errorhandler(404)
 def not_found(e):
     return render_template("404.html", names=get_names())
+
+
+@application.route("/ads.txt")
+def static_from_root():
+    return send_file("ads.txt")
 
 
 if __name__ == "__main__":

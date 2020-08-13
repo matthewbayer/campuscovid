@@ -1,0 +1,15 @@
+{% extends "default.html" %}
+{% block title %}No data for state{% endblock %}
+{% block body %}
+{{ super() }}
+<center>
+  <h4>Fortunately, no cases found in our database for schools in {{state_name}}.</h4><br>
+  Please check back later, or
+  contribute a source with the "Contribute Data" tab if you are aware of cases!
+
+  <a href="{{ url_for('index') }}">
+    <p>Click Here
+  </a>to go to the Home Page</p>
+</center>
+
+{% endblock %}

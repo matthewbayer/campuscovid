@@ -1,0 +1,37 @@
+{% extends "default.html" %}
+<!DOCTYPE html>
+<html lang="en">
+
+{% block body %}
+{{ super() }}
+<div class="container text-center">
+  <h3>Cases in {{state_name}}</h3>
+</div>
+<div class="container" id="schooldata" data-school='{{ statedata|tojson }}'>
+  <canvas id="lineChart"></canvas>
+</div>
+
+<div class="container">
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th scope="col">School name (click each for more info)</th>
+        <th scope="col">Total cases</th>
+      </tr>
+      {% for name, total in statedata["names"] %}
+      <tr>
+        <td scope="row">
+          <a href={{"/colleges/" + name.lower().replace(" ", "-").replace(",", "")}} id="table-link">{{name}}</a></td>
+        <td>{{total}}</td>
+      </tr>
+      {% endfor %}
+    </thead>
+</div>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script type="text/javascript" src="/static/js/barchart.js"></script>
+{% endblock %}
+
+</html>

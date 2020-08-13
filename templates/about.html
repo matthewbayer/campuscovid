@@ -1,0 +1,77 @@
+{% extends "default.html" %}
+<!DOCTYPE html>
+<html lang="en">
+
+{% block body %}
+{{ super() }}
+<div class="container">
+  <h3>About</h3>
+
+  This resource was built by college students with background in data science who want to hold universities
+  accountable. We created CampusCovid to insert transparency and realism into
+  our nation's discussion about the safety of in-person instruction at colleges during the Fall 2020 semester.<br><br>
+
+  Unfortunately, no college wants to be known as the "New York City" of campuses - even if they lead the nation in
+  COVID cases.
+  Even though we have been experiencing the COVID pandemic for over half a year, many colleges still fail to report
+  basic case
+  data about their students. At the same time, these schools push inadequate or opaque policies in place to keep
+  students safe.
+  Some plan for testing numbers that are too low, and others tout hopelessly wishful thinking that they will be able
+  to control
+  student behavior with 100% compliance.<br><br>
+
+  We want to show our nation's students how their school performs in controlling COVID outbreaks, and encourage schools
+  to
+  report transparent data by showing them examples of honest reporting. We want
+  universities who fail to control outbreaks to know
+  that their underperformance will be a public shame, and that they need to move classes to an online setting.
+  Hopefully, this tool provides motivation for schools to rethink their health precautions to make campuses safer
+  across the nation.
+
+  <br><br>
+
+  <h3>Data Transparency Policies</h3>
+  Data on the website is collected from official university reports, as well as reliable news sources. To inspect
+  data, click the name
+  of any school on the homepage and access the links on that school's page.<br><br>
+
+  Due to a disappointing lack of transparency from schools across the nation, CampusCovid has developed the following
+  policies for dealing with suboptimal data:<br><br>
+
+  <ul>
+    <li>We track only cases announced on or after July 1, 2020. Schools are less accountable for outbreaks in the spring
+      semester
+      of 2020, since the virus was a new threat with little precedent. In addition, reporting quality is very poor for
+      earlier months, so the number of cases reported from each school in the spring does not reflect the preparedness
+      or
+      competence of the
+      school's response.
+    </li> <br>
+    <li>Cases are logged by the date of public reporting, and not the date of positive tests. Many schools only
+      provide weekly case updates, and few provide detailed data on infection dates.</li> <br>
+    <li>Many schools avoid transparency by combining student and faculty case counts. Unfortunately, this means some
+      figures may include a small
+      but nonzero number faculty infections that are counted as students. This is unfortunate, but we decided this
+      slightly opaque method
+      of data reporting is better than than the alternative of entirely omitting case counts from certain schools.
+      If you are able to find a source that only lists student infections for a school that needs it, please do share
+      it using the "Contribute Data" tab!</li><br>
+    <li>We try to count only student cases that occur in students living on campus, or nearby in off-campus housing,
+      excluding
+      students who test positive at home and never travel to campus. If a school does not list the location of
+      infections,
+      all
+      cases are assumed to have occurred on-campus. We believe this assumption is reasonable, as few schools have
+      announced that they have developed infrastructure
+      (or expressed the desire) for students to report at-home infections to the administration.</li>
+  </ul>
+
+  <h3>Contact Us</h3>
+  For more information, please contact us by submitting a form using the "Contact" tab, or by e-mail at
+  campuscovid@gmail.com.
+  </p>
+</div>
+{% endblock %}
+
+</html>
